@@ -2,8 +2,8 @@
 //  UIBarButtonItem+Eye.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/3/13.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   13.
+//     
 //
 
 import UIKit

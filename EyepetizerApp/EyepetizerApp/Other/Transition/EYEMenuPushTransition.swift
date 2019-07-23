@@ -2,8 +2,8 @@
 //  EYEMenuPushTransition.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/4/7.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//    7.
+//     
 //
 
 import UIKit

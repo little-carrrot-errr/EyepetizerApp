@@ -2,8 +2,8 @@
 //  EYEPopularMonthController.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/3/21.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   21.
+//     
 //
 
 import UIKit

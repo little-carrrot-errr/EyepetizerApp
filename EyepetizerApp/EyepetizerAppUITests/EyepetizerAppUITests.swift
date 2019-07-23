@@ -2,8 +2,8 @@
 //  EyepetizerAppUITests.swift
 //  EyepetizerAppUITests
 //
-//  Created by 梁亦明 on 16/3/10.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   10.
+//     
 //
 
 import XCTest

@@ -2,8 +2,8 @@
 //  EYEPopularHeaderView.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/3/20.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   20.
+//     
 //
 
 import UIKit

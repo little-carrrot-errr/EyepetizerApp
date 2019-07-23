@@ -2,8 +2,8 @@
 //  EYEMenuViewController.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/4/2.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//    2.
+//     
 //
 
 import UIKit

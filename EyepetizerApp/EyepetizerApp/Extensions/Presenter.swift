@@ -2,8 +2,8 @@
 //  LoadingPresenter.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/3/17.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   17.
+//     
 //
 
 import Foundation

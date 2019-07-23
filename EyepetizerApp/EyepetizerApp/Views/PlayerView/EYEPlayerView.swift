@@ -2,8 +2,8 @@
 //  EYEPlayerView.swift
 //  EyepetizerApp
 //
-//  Created by 梁亦明 on 16/3/29.
-//  Copyright © 2016年 xiaoming. All rights reserved.
+//   29.
+//     
 //
 
 import UIKit
